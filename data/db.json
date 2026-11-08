@@ -1,0 +1,251 @@
+{
+  "registeredUsersCount": 2,
+  "allProfiles": {
+    "CEO Miki": {
+      "username": "CEO Miki",
+      "nickname": "CEO Miki ✨",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&h=200&fit=crop&crop=faces",
+      "banner": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=900&h=300&fit=crop",
+      "description": "Fundador y Director Ejecutivo General de YM-ki Entertainment.",
+      "ringColor": "#6366f1",
+      "transparentFrame": null,
+      "accountType": "admin",
+      "profileBgColor": "#1e293b",
+      "badgeAdminColor": "#ec4899",
+      "badgeVerifiedColor": "#38bdf8",
+      "animal": "Zorro 🦊",
+      "allowMessages": true,
+      "coins": 999999,
+      "gems": 5000,
+      "dob": "2004-06-15",
+      "isMerchPrivate": false,
+      "showcaseItemIds": [],
+      "completedMissions": [],
+      "idCard": {
+        "pseudonym": "CEO Miki",
+        "age": 20,
+        "gender": "Femenino",
+        "matricula": "YM-2026-7253",
+        "faceclaim": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&h=150&fit=crop&crop=faces",
+        "cardColor": "#6366f1",
+        "stripeColor": "#ec4899",
+        "specialties": [
+          "vocal"
+        ]
+      }
+    },
+    "BobTheGreat": {
+      "username": "BobTheGreat",
+      "nickname": "Bob The Musician",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&h=150&fit=crop&crop=faces",
+      "banner": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=900&h=300&fit=crop",
+      "description": "Miembro oficial de la comunidad YM-ki Web.",
+      "ringColor": "#6366f1",
+      "transparentFrame": null,
+      "accountType": "admin",
+      "profileBgColor": "#1e293b",
+      "badgeAdminColor": "#ec4899",
+      "badgeVerifiedColor": "#38bdf8",
+      "animal": "Zorro 🦊",
+      "allowMessages": true,
+      "coins": 999999,
+      "gems": 9999,
+      "dob": "2004-06-15",
+      "isMerchPrivate": false,
+      "showcaseItemIds": [],
+      "completedMissions": [],
+      "idCard": {
+        "pseudonym": "BobTheGreat",
+        "age": 20,
+        "gender": "Femenino",
+        "matricula": "YM-2026-9601",
+        "faceclaim": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&h=150&fit=crop&crop=faces",
+        "cardColor": "#6366f1",
+        "stripeColor": "#ec4899",
+        "specialties": [
+          "vocal"
+        ]
+      }
+    }
+  },
+  "survivals": [],
+  "forums": [],
+  "posts": [],
+  "fanClubs": [],
+  "chats": {},
+  "chatGroups": [],
+  "products": [],
+  "inventory": [],
+  "userAlbums": [],
+  "userPhotocards": [],
+  "magazines": [],
+  "releases": [],
+  "awards": [
+    {
+      "title": "e5ke57k",
+      "description": "eke57kik75k",
+      "banner": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=1200",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-04",
+      "isActive": true,
+      "categories": [
+        {
+          "name": "w5kjw57k",
+          "description": "w64tjwyjkw5",
+          "votesLimitPerUser": 20,
+          "nominees": [
+            {
+              "id": "nom-1",
+              "name": "YM-ki All Stars",
+              "subtitle": "Comeback Oficial",
+              "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=300",
+              "votes": 1
+            },
+            {
+              "id": "nom-1793752454739",
+              "name": "5rjk5kj",
+              "subtitle": "5ryktyktyy7",
+              "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300",
+              "votes": 1
+            },
+            {
+              "id": "nom-1793752460975",
+              "name": "ys7kws56kw56k",
+              "subtitle": "sskwsy6k5wk",
+              "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300",
+              "votes": 18
+            }
+          ],
+          "id": "cat-1793752462972"
+        }
+      ],
+      "createdBy": "\"\\\"\\\\\\\"\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"CEO Miki\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\"\\\\\\\"\\\"\"",
+      "id": "award-1793752430304",
+      "createdAt": "2026-11-04T00:33:50.304Z"
+    },
+    {
+      "id": "award-2026",
+      "title": "YM-ki Music & Performance Awards (YMMA 2026)",
+      "description": "La máxima premiación anual de la agencia donde los fans eligen a sus artistas, coreografías y lanzamientos favoritos.",
+      "banner": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=1200&auto=format&fit=crop&q=80",
+      "startDate": "2026-11-01",
+      "endDate": "2026-12-31",
+      "isActive": true,
+      "createdBy": "CEO Miki",
+      "createdAt": "2026-11-03T00:01:16.855Z",
+      "categories": [
+        {
+          "id": "cat-art-year",
+          "name": "Artista del Año (Artist of the Year)",
+          "description": "Premio al artista o grupo con mayor impacto escénico, talento y conexión con el fandom.",
+          "votesLimitPerUser": 3,
+          "nominees": [
+            {
+              "id": "nom-allstars",
+              "name": "YM-ki All Stars",
+              "subtitle": "Lanzamiento: ECLIPSE",
+              "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=300&auto=format&fit=crop&q=80",
+              "votes": 245
+            },
+            {
+              "id": "nom-miki",
+              "name": "CEO Miki (Solo Act)",
+              "subtitle": "Lanzamiento: Starlight Illusion",
+              "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+              "votes": 192
+            },
+            {
+              "id": "nom-trainees",
+              "name": "YM-ki Trainees",
+              "subtitle": "Lanzamiento: Neon Horizon",
+              "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=300&auto=format&fit=crop&q=80",
+              "votes": 157
+            }
+          ]
+        },
+        {
+          "id": "cat-best-mv",
+          "name": "Mejor Video Musical (Best MV & Visuals)",
+          "description": "Reconocimiento a la dirección artística, cinematografía y producción audiovisual.",
+          "votesLimitPerUser": 3,
+          "nominees": [
+            {
+              "id": "nom-mv-eclipse",
+              "name": "ECLIPSE - YM-ki All Stars",
+              "subtitle": "Dirigido por YM-ki Studios",
+              "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=300&auto=format&fit=crop&q=80",
+              "votes": 310
+            },
+            {
+              "id": "nom-mv-neon",
+              "name": "NEON HORIZON Teaser Film",
+              "subtitle": "Dirigido por CyberFrame Labs",
+              "image": "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=300&auto=format&fit=crop&q=80",
+              "votes": 198
+            }
+          ]
+        },
+        {
+          "id": "cat-best-dance",
+          "name": "Mejor Coreografía & Performance",
+          "description": "Premio a la coordinación rítmica, presencia escénica y creatividad coreográfica.",
+          "votesLimitPerUser": 2,
+          "nominees": [
+            {
+              "id": "nom-dance-eclipse",
+              "name": "ECLIPSE (Point Dance Chorus)",
+              "subtitle": "Coreografía por CEO Sora & Jin",
+              "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&auto=format&fit=crop&q=80",
+              "votes": 280
+            },
+            {
+              "id": "nom-dance-velocity",
+              "name": "Velocity Rush Dance Break",
+              "subtitle": "Coreografía por Trainee Team Alpha",
+              "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=300&auto=format&fit=crop&q=80",
+              "votes": 172
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "userAwardVotes": {},
+  "userVotedNominees": {},
+  "auditions": [],
+  "auditionPassCodes": [],
+  "notifications": [
+    {
+      "id": "notif-1793755837324",
+      "recipient": "BobTheGreat",
+      "type": "system",
+      "title": "👑 ¡Solicitud de CEO Aprobada!",
+      "message": "¡Felicidades! Tu solicitud para ser CEO ha sido aprobada por el CEO Fundador (@CEO Miki). Tu cuenta cuenta con permisos de Administrador y saldo ilimitado.",
+      "date": "2026-11-04T01:30:37.325Z",
+      "read": false
+    },
+    {
+      "id": "notif-1793755837319",
+      "recipient": "CEO Miki",
+      "type": "system",
+      "title": "👑 Nueva Solicitud para CEO / Administrador",
+      "message": "@BobTheGreat ha enviado una solicitud para ascender a admin. Revisa y evalúa la solicitud en Configuración.",
+      "date": "2026-11-04T01:30:37.319Z",
+      "read": false
+    }
+  ],
+  "tradeOffers": [],
+  "lastUpdated": "2026-11-04T01:30:37.325Z",
+  "ceoRequests": [
+    {
+      "id": "req-1793755837319",
+      "username": "BobTheGreat",
+      "requestedRole": "admin",
+      "targetCeo": "CEO Miki",
+      "reason": "Quiero liderar la división de hip-hop de YM-ki",
+      "date": "2026-11-04T01:30:37.319Z",
+      "status": "approved"
+    }
+  ],
+  "firstRegisteredUser": "CEO Miki"
+}
